@@ -12,7 +12,7 @@
 	Hello world!  hello
 </h1>
 
-<h1> Git hub</h1>
+<h1> Git hub!</h1>
 
 <img src="./etc/images/iu1.jpg">
 
